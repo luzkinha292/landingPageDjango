@@ -121,3 +121,17 @@ footer p {
     font-size: 1.5em;
     text-align: center;
 }
+
+#participantes div{
+    display: flex;
+}
+
+.participante{
+    display: flex;
+    flex-direction: column;
+    margin-right: 70px;
+}
+
+#titulo {
+    text-align: center;
+}
